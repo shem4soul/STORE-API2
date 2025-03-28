@@ -38,7 +38,8 @@
   {
     "name": "emperor bed",
     "price": 23,
-    "company": "ikea"
+    "company": "ikea",
+    "featured": false
   },
   {
     "name": "entertainment center",
@@ -104,17 +105,20 @@
   {
     "name": "wooden bed",
     "price": 25,
-    "company": "ikea"
+    "company": "ikea",
+    "featured": false
   },
   {
     "name": "wooden desk",
     "price": 15,
-    "company": "ikea"
+    "company": "ikea",
+    "featured": false
   },
   {
     "name": "wooden desk",
     "price": 40,
-    "company": "ikea"
+    "company": "ikea",
+    "featured": false
   },
   {
     "name": "wooden table",
